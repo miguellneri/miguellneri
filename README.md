@@ -18,7 +18,10 @@ Seeking an entry-level IT Help Desk or Junior SOC Analyst role where I can apply
 ### Cybersecurity Portfolio
 *A collection of hands-on labs and projects demonstrating my technical knowledge.*
 
-* [**Linux Command Line Fundamentals**](https://github.com/migueln24/cybersecurity-labs/blob/main/Linux-CLI-Fundamentals.md) - *Demonstrated ability to filter text with grep, manage packages, and redirect standard I/O in a Bash environment.*
-* [**Linux File Permissions Management**](https://github.com/migueln24/cybersecurity-labs/blob/main/Linux-Permissions-Lab.md) - *Demonstrated ability to navigate the Linux file system and configure access controls using `chmod` and `chown`.*
+* [**Linux Command Line Fundamentals**](https://github.com/miguellneri/cybersecurity-labs/blob/main/Linux-CLI-Fundamentals.md) - *Demonstrated ability to filter text with grep, manage packages, and redirect standard I/O in a Bash environment.*
+* [**Linux File Permissions Management**](https://github.com/miguellneri/cybersecurity-labs/blob/main/Linux-Permissions-Lab.md) - *Demonstrated ability to navigate the Linux file system and configure access controls using `chmod` and `chown`.*
 * [**Network Packet Analysis**](#) - *(Coming Soon) Captured and analyzed network traffic to identify potential security incidents.*
 * [**SQL Log Triage**](#) - *(Coming Soon) Queried security databases to extract and analyze authentication logs.*
+
+### Let's Connect
+* **LinkedIn** www.linkedin.com/in/miguellneri
